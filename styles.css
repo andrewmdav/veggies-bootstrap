@@ -1,5 +1,5 @@
 html {
-    /* Needed to fix footer at bottom of browser */
+    /* Needed to fix footer */
     position: relative;
     min-height: 100%;
 }
